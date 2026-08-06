@@ -1,0 +1,19 @@
+{
+  "name": "startkit",
+  "version": "0.1.0",
+  "description": "A minimal project template for new libraries.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "startkit": "bin/startkit.mjs"
+  },
+  "files": [
+    "bin",
+    "src",
+    "template"
+  ],
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "lint": "node --check bin/startkit.mjs && node --check src/generate.mjs"
+  }
+}
