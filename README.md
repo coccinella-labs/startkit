@@ -1,5 +1,7 @@
 # startkit
 
+[![Release](https://img.shields.io/github/v/release/libnudget/startkit?logo=github&label=latest)](https://github.com/libnudget/startkit/releases)
+
 A minimal project template for new libraries.
 
 startkit gives you a publish-ready library with nothing beyond the
@@ -21,7 +23,7 @@ startkit mylib  # creates ./mylib from the template
 Or without installing anything:
 
 ```sh
-npx --yes github:libnudget/startkit#v0.1.0 mylib
+npx --yes github:libnudget/startkit mylib
 ```
 
 Then move in and get going:
