@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/startkit/main/.github/assets/thumbnail.png" alt="startkit" width="100%">
+</p>
+
 # startkit
 
 [![Release](https://img.shields.io/github/v/release/libnudget/startkit?logo=github&label=latest)](https://github.com/libnudget/startkit/releases)
