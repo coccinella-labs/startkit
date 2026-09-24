@@ -13,7 +13,7 @@ npm install
 ```js
 import { greet } from "{{name}}"
 
-console.log(greet("libnudget"))
+console.log(greet("coccinella-labs"))
 ```
 
 ## Development
