@@ -4,6 +4,6 @@ import { greet } from "../src/index.js"
 
 describe("greet", () => {
   it("greets by name", () => {
-    assert.equal(greet("libnudget"), "Hello, libnudget!")
+    assert.equal(greet("coccinella-labs"), "Hello, coccinella-labs!")
   })
 })
