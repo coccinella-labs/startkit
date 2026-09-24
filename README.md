@@ -4,7 +4,7 @@
 
 # startkit
 
-[![Release](https://img.shields.io/github/v/release/libnudget/startkit?logo=github&label=latest)](https://github.com/libnudget/startkit/releases)
+[![Release](https://img.shields.io/github/v/release/coccinella-labs/startkit?logo=github&label=latest)](https://github.com/coccinella-labs/startkit/releases)
 
 A minimal project template for new libraries.
 
@@ -17,7 +17,7 @@ it, and ship.
 Clone the repository and scaffold a new library:
 
 ```sh
-git clone https://github.com/libnudget/startkit
+git clone https://github.com/coccinella-labs/startkit
 cd startkit
 npm install
 npm link        # makes the `startkit` command available
@@ -27,7 +27,7 @@ startkit mylib  # creates ./mylib from the template
 Or without installing anything:
 
 ```sh
-npx --yes github:libnudget/startkit mylib
+npx --yes github:coccinella-labs/startkit mylib
 ```
 
 Then move in and get going:
